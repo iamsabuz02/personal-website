@@ -1,0 +1,147 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+
+.name-highlight{
+    color: tomato;
+    font-size: 100px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-top: 6%;
+    padding-left: 5%;
+
+}
+
+.half-width img{
+    width:90%;
+}
+
+.half-width p{
+    color: gray;
+    padding-bottom: 3%;
+}
+
+.click-button{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+
+.half-width h1, p, .click-button{
+    margin-left: 30%;
+}
+
+.first-half-width{
+    margin-top: 15%;
+}
+section{
+    height: 970PX;
+}
+.top-banner{
+    background-image: url(./photo/header-bg.png);
+    background-repeat: no-repeat;
+}
+
+.half-width P, .click-button{
+    font-size: 20PX;
+}
+
+.biography{
+    background-image: url(./photo/biography-bg.png);
+    background-repeat: no-repeat;
+}
+
+.biography-last-width{
+    margin-top: 14%;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+#peter_dream-photo{
+    width: 75%;
+    margin-left: 10%;
+}
+
+
+.h1-out{
+    text-align: center;
+}
+
+.latest-work img{
+    width: 25%;
+    float: left;
+    padding: 3%;
+}
+
+.my-latest-work{
+    margin-top: 5%;
+    margin-left: 6%;
+    background-image: url(./photo/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.my-footer{
+    background-image: url(./photo/footer-bg.png);
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.my-footer h1{
+    text-align: center;
+}
+
+.my-footer h3{
+    font-weight: bold;
+    text-align: center;
+}
+.my-footer h4{
+    text-align: center;
+    color: gray;
+}
+
+.my-footer p{
+    text-align: center;
+    margin: 0;
+}
+
+.my-footer h2{
+    text-align: center;
+}
+
+.footer-end{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20%;
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 5% 10%;
+    border-radius: 10px;
+    font-weight: bold;
+
+    
+}
+
+.footer-end p{
+    font-size:120%;
+}
+
+footer p{
+    text-align: center;
+    margin: 0;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    
+    
+}
